@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cosmin</h1>
-<h3 align="center">CS student, with a passion for Web3, software and web development</h3>
+<h3 align="center">CS student, with a passion for Web3, Blockchains, software and web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosminmarian53&label=Profile%20views&color=0e75b6&style=flat" alt="cosminmarian53" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosminmarian53" alt="cosminmarian53" /></a> </p>
 
-- 🌱 I’m currently learning **Rust,Solidity,Ethereum,React,Java etc.**
+- 🌱 I’m currently learning **Rust, Solidity, Ethereum, React, Java, Solana etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cosminmarian53](https://github.com/cosminmarian53)
 
