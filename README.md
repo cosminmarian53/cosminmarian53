@@ -14,6 +14,7 @@
 - 📫 How to reach me **cosminlavric53@gmail.com**
 
 - ⚡ Fun fact  **I'm a philosophy and music enthusiast**
+- 👽 Try my game **https://cosminmarian53.github.io/IBM-Project-Aliens-Vs-Robots/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
