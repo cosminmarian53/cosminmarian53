@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cosmin</h1>
-<h3 align="center">CS student, with a passion for Web3, Blockchains, software and web development</h3>
+<h3 align="center">Information Technology student, with a passion for Web3, Blockchains, software and web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosminmarian53&label=Profile%20views&color=0e75b6&style=flat" alt="cosminmarian53" /> </p>
 
