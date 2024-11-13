@@ -13,6 +13,7 @@
 - 📫 How to reach me **cosminlavric53@gmail.com**
 - 👽 Play my game: **https://cosminmarian53.github.io/Aliens-Vs-Robots/**
 - ⚡ Fun fact  **I'm a philosophy and music enthusiast**
+- 🔥 Check out my portofolio: **https://portofolio-one-self.vercel.app**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
