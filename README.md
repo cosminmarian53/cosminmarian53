@@ -11,6 +11,7 @@
 
 - 💬 Ask me about **react**, **blockchain**, **web3** and **rust**
 - 📫 How to reach me **cosminlavric53@gmail.com**
+- ✨ My X profile: **https://x.com/cosminm53**
 - 👽 Play my game: **https://cosminmarian53.github.io/Aliens-Vs-Robots/**
 - ⚡ Fun facts about me:  **I'm a philosophy and music enthusiast**
 - 🔥 Check out my portofolio: **https://my-portofolio-eight-gold.vercel.app**
