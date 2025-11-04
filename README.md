@@ -15,6 +15,7 @@
 - 👽 Play my game: **https://cosminmarian53.github.io/Aliens-Vs-Robots/**
 - ⚡ Fun facts about me:  **I'm a philosophy and music enthusiast**
 - 🔥 Check out my portofolio: **https://my-portofolio-eight-gold.vercel.app**
+- 🍎 Cantina profile: **https://cantina.xyz/u/cosminmarian53**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
