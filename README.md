@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cosminmarian53" alt="cosminmarian53" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Solidity, Ethereum, React, Java, Solana, Three.js, R3F, Vyper and Python**
+- 🌱 My auditing stack **Rust, Solidity, Move, Vyper and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cosminmarian53](https://github.com/cosminmarian53)
 
